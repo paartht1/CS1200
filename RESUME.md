@@ -1,3 +1,3 @@
 student's name : Paarth Trehan
 major : Computer Science & Neuroscience
-expected graduation date: April 2028
+expected graduation date: May 2028
